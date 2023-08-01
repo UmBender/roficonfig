@@ -29,8 +29,8 @@
     nord15:    #b48ead;
 
     background-color:   transparent;
-    text-color:         @nord4;
-    accent-color:       @nord8;
+    text-color:         @nord10;
+    accent-color:       @nord9;
 
     margin:     0px;
     padding:    0px;
